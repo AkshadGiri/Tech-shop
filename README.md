@@ -16,6 +16,7 @@ Tech-Shop is a modern e-commerce web application built with React that allows us
 * JavaScript
 * CSS
 
+
 ## Run the Project
 
 1. Clone the repository:
